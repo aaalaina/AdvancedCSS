@@ -4,7 +4,8 @@
 
 table {
     height: 456px;
-    width: 800px;
+    /* width: 800px; */
+    width: 100%;
 }
 table, td {
     /* border: solid 1px; */
